@@ -12,7 +12,7 @@ Like many posts on instagram at once automatically.
 > Refresh the page
 
 ### How to use?
-> 1. Download (Tampermonkey)[https://www.tampermonkey.net]
+> 1. Download [Tampermonkey](https://www.tampermonkey.net)
 > 2. Create new userscript
 > 3. Copy & Paste the 'user.js' script
 > 4. Save (CTRL+S)
