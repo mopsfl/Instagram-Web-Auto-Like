@@ -9,7 +9,7 @@ Like many posts on instagram at once automatically.
 ### How to use?
 > 1. Download [Tampermonkey](https://www.tampermonkey.net)
 > 2. Create new userscript
-> 3. Copy & Paste the 'user.js' script
+> 3. Copy & Paste the 'user.js' script or click [here](https://github.com/mopsfl/Instagram-Web-Auto-Like/raw/main/script.user.js)
 > 4. Save (CTRL+S)
 
 ### How to enable?
