@@ -2,6 +2,7 @@
 
 Like many posts on instagram at once automatically.
 
+### Note: Due a rate limit from Instagram, you can only like ~100 post in a small time and ~500-900 likes a day.
 
 # Guide
 
